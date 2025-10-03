@@ -44,6 +44,7 @@ dependencies {
     implementation(libs.androidx.appcompat) //defino el tip´de actividad. EN este caso a partir d euna aplicacion generica con el material de aabajo v
     implementation(libs.material)
     implementation(libs.androidx.activity)
+    implementation("androidx.fragment:fragment-ktx:1.8.9")
     implementation(libs.androidx.constraintlayout)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

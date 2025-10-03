@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="nav_home">Hola1</string>
+    <string name="nav_profile">Hola2</string>
+    <string name="nav_settings">Hola3</string>
+    <string name="user_image">Hola4</string>
+
+
+    <string name="navigation_drawer_open">Open</string>
+
+    <string name="navigation_drawer_close">Close</string>
+
+
+
+
 </resources>
